@@ -1,0 +1,4 @@
+CleanXcodeBuildCache
+====================
+
+CleanXcodeBuildCache -- Alfred
